@@ -1,13 +1,15 @@
-## jQuery Mobile Sample Application using Blackberry 10 Theme
+==========================================================
+jQuery Mobile Sample Application using Blackberry 10 Theme
+==========================================================
 
 ###Description 
-TODO
+Sample Application for Blackberry 10 using the jQuery Mobile Library using the Blackberry 10 theme for jQuery Mobile
 
 ###License
 TODO
 
 ###Author
-Michael Dabydeen
+<a href="http//www.github.com/mdabydeen">Michael Dabydeen</a>: Follow me on Twitter <a href="https://www.twitter.com/firelinks">@firelinks</a>
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
